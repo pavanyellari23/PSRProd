@@ -71,5 +71,6 @@ public class ProductController {
         FullResponse fullResponse = productService.getFullResponse(productId);
         return ResponseEntity.ok(fullResponse);
         //xasdfghjkl
+        //fuckofffff
 }
 }
